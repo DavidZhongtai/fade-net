@@ -1,5 +1,7 @@
+import nltk
+
 from bs4 import BeautifulSoup
-from nltk import stopwords
+from nltk.corpus import stopwords
 
 def clean_html(text):
     soup = BeautifulSoup(text, "html.parser")
@@ -18,8 +20,11 @@ def stopword_declare():
     punctuation = list(string.punctuation)
     stop.update(punctuation)
 
-def remove_stopwords(text):
-    
+#def remove_stopwords(text):
+
 
 
 def main():
+    print("test in cmdI")
+
+main()
