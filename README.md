@@ -1,5 +1,7 @@
 # fade-net
 
+>>> Fake News Detection
+
 ### current goals  
    - start preproessing data
    - build architecture
