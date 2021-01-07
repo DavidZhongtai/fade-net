@@ -1,6 +1,6 @@
 # fade-net
 
->>> Fake News Detection
+> Fake Detection Network
 
 ### current goals  
    - start preproessing data
