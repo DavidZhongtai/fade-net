@@ -1,4 +1,4 @@
-# fade-net
+# FaDe-Net
 
 > Fake Detection Network
 
