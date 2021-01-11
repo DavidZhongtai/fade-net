@@ -1,4 +1,7 @@
+<img alt="AUR last modified" src="https://img.shields.io/aur/last-modified/fade-net">
+
 # FaDe-Net
+
 
 > Fake Detection Network
 
