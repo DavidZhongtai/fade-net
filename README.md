@@ -1,4 +1,4 @@
-<img alt="AUR last modified" src="https://img.shields.io/aur/last-modified/davidzhongtai/fade-net">
+
 
 # FaDe-Net
 
