@@ -12,9 +12,8 @@
 
 ### novel way to classify news and prevent
    - CNN based?
-   - LSTM based
-   - GRaph Based 
-   
+   - with embeddings
+   - mainstream media
 ### workflow
    - prototype in jupyter notebooks 
    -- one shot encoding 
