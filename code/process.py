@@ -6,6 +6,10 @@ from nltk.corpus import stopwords
 
 import pandas as pd
 
+
+def main(file1, file2):
+    print("test in cmdI")
+
 def _clean_html_(text):
     soup = BeautifulSoup(text, "html.parser")
     return soup.get_text()
@@ -72,7 +76,7 @@ def _assignLabels_(input_file, label):
     df = pd.read_csv(input_file)
 
     #columnar assignment 
-    df["accuracy"] = label
+    df["label"] = label
     df.to_csv(input_file, index = False)
 
 #assigns values to the news 
@@ -89,7 +93,7 @@ def _combineCSV_(file_1, file_2):
         writer.writerow(row)
     f.close()
 
-def main():
-    print("test in cmdI")
+#call main class 
 
 main()
+
