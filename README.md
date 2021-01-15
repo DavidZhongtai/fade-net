@@ -28,4 +28,4 @@
    - Look into how README.md are formatted for code papers
    - read paperswithcode.com 
    - 1/13/21 started working on related works, researched python lbs 
-   
+   - 1/14/21 finsiiehd data cleaning class now working on training and tokenator 
