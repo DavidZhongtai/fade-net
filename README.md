@@ -24,8 +24,9 @@
    - use sklearn or TF 
    - automation of variables 
    
-### tasks 
+### LOG
    - Look into how README.md are formatted for code papers
    - read paperswithcode.com 
    - 1/13/21 started working on related works, researched python lbs 
    - 1/14/21 finsiiehd data cleaning class now working on training and tokenator 
+   - 1/15/21 continued writing paper, added related works secion
