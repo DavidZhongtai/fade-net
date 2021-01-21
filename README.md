@@ -30,3 +30,4 @@
    - 1/13/21 started working on related works, researched python lbs 
    - 1/14/21 finsiiehd data cleaning class now working on training and tokenator 
    - 1/15/21 continued writing paper, added related works secion
+   - 1/20/21 85% accuracy on model, do we wnana engineer to 90%?
