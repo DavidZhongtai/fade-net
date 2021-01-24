@@ -32,3 +32,4 @@
    - 1/15/21 continued writing paper, added related works secion
    - 1/20/21 85% accuracy on model, do we wnana engineer to 90%?
    - 1/22/21 Update Paper
+   - 1/24/21 Continued Paper 
