@@ -11,7 +11,7 @@
    - research and perform tune appropreiateley 
 
 ### novel way to classify news and prevent
-   - CNN based?
+   - LSTM with Attention Mech
    - with embeddings
    - mainstream media
 ### workflow
