@@ -12,7 +12,7 @@
 
 ### novel way to classify news and prevent
    - LSTM with Attention Mech
-   - with embeddings
+   - BiLSTM
    - mainstream media
 ### workflow
    - prototype in jupyter notebooks 
