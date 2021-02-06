@@ -14,6 +14,7 @@
    - LSTM with Attention Mech
    - BiLSTM
    - mainstream media
+   - Political News 
 ### workflow
    - prototype in jupyter notebooks 
    -- one shot encoding 
@@ -36,3 +37,4 @@
    - 2/1/21 paper
    - 1/25/21 Continued Paper
    - 2/3/21 Elevator
+   - 2/6/21 Finished Speech
