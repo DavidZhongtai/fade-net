@@ -24,6 +24,7 @@
    - build network from scratch?
    - use sklearn or TF 
    - automation of variables 
+   - Self Built Embeddings 
    
 ### LOG
    - Look into how README.md are formatted for code papers
