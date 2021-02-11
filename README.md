@@ -8,6 +8,7 @@
 ### current goals  
    - start preprocessing data
    - build architecture
+   - Elevator
    - research and perform tune appropreiateley 
 
 ### novel way to classify news and prevent
