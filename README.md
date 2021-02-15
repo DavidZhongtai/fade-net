@@ -14,6 +14,7 @@
 ### novel way to classify news and prevent
    - LSTM with Attention Mech
    - BiLSTM
+   - Bahdanau Attention Mechanism
    - mainstream media
    - Political News 
 ### workflow
